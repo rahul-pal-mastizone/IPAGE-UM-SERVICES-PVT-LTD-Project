@@ -27,6 +27,25 @@ This repository contains two React projects developed as part of the **MERN Stac
 
 ---
 
+## 📸 Screenshots  
+
+Here are some screenshots from the project for quick reference.  
+All images are available in the `/screenshots` folder of this repository.  
+
+### 🔹 Property Listings Dashboard  
+![Property Listings](./screenshots/property_listings.png)  
+![Add Property Form](./screenshots/add_property_form.png)  
+![View Details Modal](./screenshots/view_details_modal.png)  
+
+---
+### 🔹 Dynamic Portfolio Generator  
+![Template Selection](./screenshots/template_selection.png)  
+![Profile Card](./screenshots/profile_card.png)  
+![Portfolio Page](./screenshots/portfolio_page.png)  
+
+---
+
+
 ## 🛠 Tech Stack  
 - **Frontend:** React + Vite + TypeScript  
 - **Backend:** Express (Mock API) / json-server (optional)  
